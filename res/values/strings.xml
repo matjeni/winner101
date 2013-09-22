@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drive Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fuel">Fuel in litres</string>
+    <string name="distance">Distance in Kilometers</string>
+    <string name="consumption">Calculate Fuel Consumptions</string>
+    <string name="txtconsumptions">Fuel Consumption</string>
+    <string name="txtjourney">Journey Distance</string>
+    <string name="txtfuelj">Fuel for journey Distance</string>
+    <string name="txtfneeded">Fuel Needed</string>
+    <string name="txtprice">Price in Rands</string>
+    <string name="btnjourney">Journey Price</string>
+
+</resources>
